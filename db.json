@@ -1,0 +1,132 @@
+{
+  "ficcao-cientifica": [
+    {
+      "id": 1,
+      "nome": "MIB - Homens de preto",
+      "ano": "Lançado em 1997",
+      "data": "11/07"
+    },
+    {
+      "id": 2,
+      "nome": "E.T.- O Extraterrestre",
+      "ano": "Lançado em 1982",
+      "data": "08/10"
+    },
+    {
+      "id": 3,
+      "nome": "Matrix",
+      "ano": "Lançado em 1999",
+      "data": "27/09"
+    },
+    {
+      "id": 4,
+      "nome": "O planeta dos macacos",
+      "ano": "Lançado em 1968",
+      "data": "09/11"
+    }
+  ],
+  "comedia": [
+    {
+      "id": 1,
+      "nome": "Esqueceram de mim",
+      "ano": "Lançado em 1990",
+      "data": "18/05"
+    },
+    {
+      "id": 2,
+      "nome": "O maskara",
+      "ano": "Lançado em 1994",
+      "data": "18/05"
+    },
+    {
+      "id": 3,
+      "nome": "Os batutinhas",
+      "ano": "Lançado em 1994",
+      "data": "22/10"
+    },
+    {
+      "id": 4,
+      "nome": "Mr. Bean - o filme",
+      "ano": "Lançado em 1997",
+      "data": "03/07"
+    }
+  ],
+  "romance": [
+    {
+      "id": 1,
+      "nome": "Orgulho e preconceito",
+      "ano": "Lançado em 2005",
+      "data": "29/05"
+    },
+    {
+      "id": 2,
+      "nome": "Titanic",
+      "ano": "Lançado em 1997",
+      "data": "06/06"
+    },
+    {
+      "id": 3,
+      "nome": "Como se fosse a primeira vez",
+      "ano": "Lançado em 2004",
+      "data": "26/07"
+    },
+    {
+      "id": 4,
+      "nome": "De repente 30",
+      "ano": "Lançado em 2004",
+      "data": "04/08"
+    }
+  ],
+  "animacao": [
+    {
+      "id": 1,
+      "nome": "Peter Pan",
+      "ano": "Lançado em 1953",
+      "data": "14/06"
+    },
+    {
+      "id": 2,
+      "nome": "Rei leão",
+      "ano": "Lançado em 1994",
+      "data": "18/06"
+    },
+    {
+      "id": 3,
+      "nome": "Branca de neve e os sete anões",
+      "ano": "Lançado em 1937",
+      "data": "19/10"
+    },
+    {
+      "id": 4,
+      "nome": "O corcunda de Notre Dame",
+      "ano": "Lançado em 1996",
+      "data": "11/11"
+    }
+  ],
+  "acao": [
+    {
+      "id": 1,
+      "nome": "Karate Kid",
+      "ano": "Lançado em 2010",
+      "data": "25/12"
+    },
+    {
+      "id": 2,
+      "nome": "A hora do rush",
+      "ano": "Lançado em 2001",
+      "data": "27/11"
+    },
+    {
+      "id": 3,
+      "nome": "Missão impossível",
+      "ano": "Lançado em 1996",
+      "data": "07/07"
+    },
+    {
+      "id": 4,
+      "nome": "Um novo dia para matar",
+      "ano": "Lançado em 2002",
+      "data": "02/12"
+    }
+  ]
+}
